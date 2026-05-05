@@ -64,6 +64,11 @@
 
 - 在工具栏中实时显示当前时间。
 
+### 9. LLMUsage / Codex 用量
+
+- 在工具栏中显示 `LLMUsage` 按钮，点击后可查看当前账号的 Codex 用量。
+
+
 ## 数据与配置
 
 应用数据默认保存在 `%LocalAppData%/AincvyBar` 下：
@@ -71,5 +76,3 @@
 - 主配置：`bar-settings.json`
 - 日志目录：`logs/`
 - 插件数据目录：`plugins/`
-
-
