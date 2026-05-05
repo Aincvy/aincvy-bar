@@ -2,7 +2,7 @@
 
 `Aincvy Bar` 是一个基于 WPF 的 Windows 顶部工具栏应用，支持多插件组合、可视化布局、自定义外观，以及面向个人工作流的快捷操作能力。
 
-需要 .NET 10 。
+![aincvy-bar-banner](./aincvy-bar-banner.png)
 
 ## 项目特性
 
